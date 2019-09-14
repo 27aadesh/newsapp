@@ -12,6 +12,7 @@ class HomePage extends StatefulWidget {
 
 class _MyHomePageState extends State<HomePage> {
   List<Articles> articles;
+  List<Articles> articles1;
 
   @override
   void initState() {
