@@ -4,11 +4,11 @@ News App with beautiful UI and network call.
 
 ## Screen Shots
 
-Homepage:
-![alt text](https://raw.githubusercontent.com/27aadesh/newsapp/master/HOME.JPG)
 
-News Detail Page:
-![alt text](https://raw.githubusercontent.com/27aadesh/newsapp/master/NEWS%20DETAILS.JPG)
+     ![alt text](https://raw.githubusercontent.com/27aadesh/newsapp/master/HOME.JPG)
+
+
+      ![alt text](https://raw.githubusercontent.com/27aadesh/newsapp/master/NEWS%20DETAILS.JPG)
 
 
 ## Getting Started
