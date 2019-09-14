@@ -1,6 +1,13 @@
 # news_app
 
-A new Flutter project.
+A new New App Flutter project.
+
+# Screen Shots
+
+![alt text](https://raw.githubusercontent.com/27aadesh/newsapp/master/HOME.JPG)
+
+
+
 
 ## Getting Started
 
