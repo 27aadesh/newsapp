@@ -2,11 +2,11 @@
 
 A new New App Flutter project.
 
-# Screen Shots
+## Screen Shots
 
 ![alt text](https://raw.githubusercontent.com/27aadesh/newsapp/master/HOME.JPG)
 
-
+![alt text](https://raw.githubusercontent.com/27aadesh/newsapp/master/NEWS%20DETAILS.JPG)
 
 
 ## Getting Started
