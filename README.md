@@ -5,10 +5,12 @@ News App with beautiful UI and network call.
 ## Screen Shots
 
 
-     ![alt text](https://raw.githubusercontent.com/27aadesh/newsapp/master/HOME.JPG)
+<p align="center">
+  <img width="460" height="300" src="https://raw.githubusercontent.com/27aadesh/newsapp/master/HOME.JPG">
+</p>
 
 
-      ![alt text](https://raw.githubusercontent.com/27aadesh/newsapp/master/NEWS%20DETAILS.JPG)
+![alt text](https://raw.githubusercontent.com/27aadesh/newsapp/master/NEWS%20DETAILS.JPG)
 
 
 ## Getting Started
