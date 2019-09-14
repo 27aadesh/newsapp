@@ -10,7 +10,7 @@ News App with beautiful UI and network call.
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/27aadesh/newsapp/master/NEWS%20DETAILS.JPG">
+  <img src="https://raw.githubusercontent.com/27aadesh/newsapp/master/NEWS%20DETAILS1.JPG">
 </p>
 
 
