@@ -6,7 +6,7 @@ News App with beautiful UI and network call.
 
 
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/27aadesh/newsapp/master/HOME.JPG">
+  <img src="https://raw.githubusercontent.com/27aadesh/newsapp/master/HOME.JPG">
 </p>
 
 
