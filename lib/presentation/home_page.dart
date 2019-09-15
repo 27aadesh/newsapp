@@ -64,8 +64,8 @@ class _MyHomePageState extends State<HomePage> {
           child: ListTile(
         onTap: () {
           print("${article.title} Pressed");
-          Navigator.of(context)
-              .push(MaterialPageRoute(builder: (BuildContext context) => NewsDetails(article)));
+          Navigator.of(context).push(MaterialPageRoute(
+              builder: (BuildContext context) => NewsDetails(article)));
         },
         contentPadding: EdgeInsets.symmetric(horizontal: 20, vertical: 10),
         leading: Container(
