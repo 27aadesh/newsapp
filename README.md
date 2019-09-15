@@ -1,6 +1,18 @@
 # news_app
 
-A new Flutter project.
+News App with beautiful UI and network call.
+
+## Screen Shots
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/27aadesh/newsapp/master/HOME.JPG">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/27aadesh/newsapp/master/NEWS%20DETAILS1.JPG">
+</p>
+
 
 ## Getting Started
 
