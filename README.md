@@ -2,6 +2,8 @@
 
 News App with beautiful UI and network call.
 
+Playstore Link: https://play.google.com/store/apps/details?id=com.aadeshjain.newZ&hl=en
+
 ## Screen Shots
 
 
